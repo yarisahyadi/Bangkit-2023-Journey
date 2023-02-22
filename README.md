@@ -2,11 +2,11 @@
 My learning journey in Bangkit Academy 2023
 --
 
-*16 Feb 2023*
+*16 Feb 2023*<br>
 Kampus merdeka national on-boarding
 - The comment section become too riot
 
-*17 Feb 2023*
+*17 Feb 2023*<br>
 Technical briefing and life path session
 - We got welcomed by GoTo, Traveloka, and Bangkit Representatives. They explained about the program, rules, important infos, etc.
 - On life path session, we're teached that we should know what is our purpose, our life choices, etc. when joining this program.
