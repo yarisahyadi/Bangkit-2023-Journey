@@ -2,7 +2,7 @@
 My learning journey in Bangkit Academy 2023
 --
 
-**16 Feb 2023**<br>
+**16 Feb 2023**  
 Kampus merdeka national on-boarding
 - The comment section become too riot
 
